@@ -3,7 +3,7 @@ body {
   background-image: linear-gradient(45deg,#288ECC, #7FCEFF)
 }
 
-.tudo {
+.div {
   background-color: #165780;
   position: absolute;
   top: 50%;
@@ -31,4 +31,3 @@ body {
   border: none;
   color: #ffff;
   background-color: #7FCEFF;
-}
